@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1042384658326",
+    "firebase_url": "https://mylatestproject-50982-default-rtdb.firebaseio.com",
+    "project_id": "mylatestproject-50982",
+    "storage_bucket": "mylatestproject-50982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042384658326:android:c42d56acfb3653294407b7",
+        "android_client_info": {
+          "package_name": "com.example.violet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3rHccDyeyJicGJ-VCeKVhoIVoGKbNec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
